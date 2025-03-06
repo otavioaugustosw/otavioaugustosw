@@ -4,8 +4,8 @@ Sou um estudante de Engenharia de Software na PUCPR com ênfase em desenvolvimen
 Amo música e artes gráficas, acredito que há um papel fundamental da arte no desenvolvimento de softwares humanos.
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=otavioaugusto-exe&show_icons=true&theme=midnight-purple"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugusto-exe&layout=compact&theme=midnight-purple"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=otavioaugustosw&show_icons=true&theme=midnight-purple"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugustosw&layout=compact&theme=midnight-purple"/>
 </div>
 
 ## Tecnologias nas quais eu trabalho:
