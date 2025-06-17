@@ -15,6 +15,14 @@ Amo música e artes gráficas, acredito que há um papel fundamental da arte no 
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
       <br>Swift
     </td>
+        <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+      <br>Java
+    </td>
+        <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+      <br>PHP
+    </td>
     <td align="center">
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
       <br>HTML5
@@ -26,6 +34,10 @@ Amo música e artes gráficas, acredito que há um papel fundamental da arte no 
     <td align="center">
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
       <br>JavaScript
+    </td>
+        <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+      <br>Bootstrap
     </td>
   </tr>
 </table>
