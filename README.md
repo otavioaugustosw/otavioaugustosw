@@ -8,14 +8,47 @@ Amo música e artes gráficas, acredito que há um papel fundamental da arte no 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugustosw&layout=compact&theme=midnight-purple"/>
 </div>
 
-## Tecnologias nas quais eu trabalho:
+## Stack de desenvolvimento iOS
+Minha stack principal e área de estudo contínuo para desenvolvimento de aplicações nativas iOS
 <table>
   <tr>
     <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+      <img height="40" src="https://github.com/user-attachments/assets/8064b8b8-0989-4737-b012-e90cc32c6726"/>
       <br>Swift
     </td>
+            <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
+      <br>UIKit ViewCode
+    </td>
         <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/d3d3ba91-cc0c-4d93-8e4b-a017783eccbc"/>
+      <br>SwiftUI
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+      <br>SPM
+    </td>
+    <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
+      <br>MVVMC
+    </td>
+    <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
+      <br>XTCTest
+    </td>
+        <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
+          <br>REST APIs
+    </td>
+  </tr>
+</table>
+
+
+## Tecnologias nas quais eu também trabalho:
+
+<table>
+  <tr>
+    <td align="center">
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
       <br>Java
     </td>
