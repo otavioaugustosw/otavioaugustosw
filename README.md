@@ -17,15 +17,15 @@ Minha stack principal e área de estudo contínuo para desenvolvimento de aplica
       <br>Swift
     </td>
             <td align="center">
-      <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
-      <br>UIKit ViewCode
-    </td>
-        <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/d3d3ba91-cc0c-4d93-8e4b-a017783eccbc"/>
       <br>SwiftUI
     </td>
+            <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
+      <br>UIKit ViewCode
+    </td>
     <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+            <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
       <br>SPM
     </td>
     <td align="center">
