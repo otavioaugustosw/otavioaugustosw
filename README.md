@@ -34,7 +34,7 @@ Minha stack principal e área de estudo contínuo para desenvolvimento de aplica
     </td>
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
-      <br>XTCTest
+      <br>XCTest
     </td>
         <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/61e0acb7-73ac-437b-a132-534cc6afecc8"/>
